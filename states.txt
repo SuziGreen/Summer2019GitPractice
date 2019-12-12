@@ -3,3 +3,6 @@ California
 Chicago
 Florida
 Texas
+Istanbul
+giresun
+karadeniz
